@@ -6,7 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-  <h1>Contactos</h1>
-
+    <h1>Cómo llegar...</h1>
 </body>
 </html>
